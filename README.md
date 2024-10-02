@@ -1,22 +1,21 @@
 # T20-World-Cup-Cricket-Best-11
 
 ## Overview
-I developed a comprehensive Power BI report aimed at identifying the top 11 players for a T20 cricket team by leveraging a combination of web scraping, data cleaning, and advanced performance analysis.
+I created a comprehensive Power BI report aimed at identifying the top 11 players for a T20 cricket team by leveraging a combination of web scraping, data cleaning, and advanced performance analysis.
 
 ## Key features
 
 ### Profitability Analysis
-* **Revenue and Profit Margins:** Track revenue trends over time, with a detailed breakdown of profit margins by product line, region, and customer segment.
+* **Advanced Performance Metrics:** Emphasized key T20 statistics such as strike rate, economy rate, and match situation adaptability to drive decision-making.
 
 ### Performance Metrics
-* **Sales Performance:**  Monitor sales performance across different periods, with comparisons to previous years, quarters, or months. Drill down into individual product categories or sales teams to identify top performers and areas needing attention.
+* **Interactive Dashboard:** Allowed for dynamic player selection based on live data, offering flexibility in exploring and analyzing various players across different match roles.
 
 ### Customer and Market Analysis
-* **Customer Segmentation:** Analyse customer data to identify high-value segments, retention rates, and purchasing behaviors. Enables targeted marketing strategies and personalized customer experiences.
+* **Role-Based Player Selection:** Ensured a balanced squad by categorizing players into roles crucial for T20 cricket success (openers, finishers, all-rounders, etc.).
 
 ### Visual and Interactive Reports
-* **Dynamic Visualisations:** Interactive charts and graphs provide a clear and intuitive understanding of data, making it easier to spot trends, outliers, and patterns.
-* **User-Friendly Interface:** The dashboard is designed with a user-centric approach, ensuring ease of navigation, customization options, and quick access to critical data.
+* **Winning Probability Model:** Utilized performance metrics to forecast an impressive 90% chance of winning, showcasing the power of data analytics in sports decision-making.
 
 ## Technologies Used
 * BrightData
