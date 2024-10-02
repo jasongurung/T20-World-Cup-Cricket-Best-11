@@ -1,7 +1,7 @@
 # T20-World-Cup-Cricket-Best-11
 
 ## Overview
-I have developed a comprehensive Power BI dashboard for AtliQ Hardware, designed to empower users with actionable insights and support data-driven decision-making. This dashboard provides an in-depth analysis of key business metrics, including profits, performance, and overall operational efficiency.
+I developed a comprehensive Power BI report aimed at identifying the top 11 players for a T20 cricket team by leveraging a combination of web scraping, data cleaning, and advanced performance analysis.
 
 ## Key features
 
