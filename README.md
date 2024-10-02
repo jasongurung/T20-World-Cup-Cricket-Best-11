@@ -5,17 +5,20 @@ I created a comprehensive Power BI report aimed at identifying the top 11 player
 
 ## Key features
 
-### Profitability Analysis
-* **Advanced Performance Metrics:** Emphasized key T20 statistics such as strike rate, economy rate, and match situation adaptability to drive decision-making.
+### End-to-End Data Pipeline:
+* From scraping the data to cleaning, transforming, and visualizing it in Power BI, the project utilized a robust data pipeline powered by BrightData, pandas, and Power BI.
 
-### Performance Metrics
-* **Interactive Dashboard:** Allowed for dynamic player selection based on live data, offering flexibility in exploring and analyzing various players across different match roles.
+### Advanced Performance Metrics:
+* Emphasized key T20 statistics such as strike rate, economy rate, and match situation adaptability to drive decision-making.
 
-### Customer and Market Analysis
-* **Role-Based Player Selection:** Ensured a balanced squad by categorizing players into roles crucial for T20 cricket success (openers, finishers, all-rounders, etc.).
+### Interactive Dashboard:
+* Allowed for dynamic player selection based on live data, offering flexibility in exploring and analyzing various players across different match roles.
 
-### Visual and Interactive Reports
-* **Winning Probability Model:** Utilized performance metrics to forecast an impressive 90% chance of winning, showcasing the power of data analytics in sports decision-making.
+### Role-Based Player Selection:
+* Ensured a balanced squad by categorizing players into roles crucial for T20 cricket success (openers, finishers, all-rounders, etc.).
+
+### Winning Probability Model:
+* Utilized performance metrics to forecast an impressive 90% chance of winning, showcasing the power of data analytics in sports decision-making.
 
 ## Technologies Used
 * BrightData
