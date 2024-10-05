@@ -31,7 +31,7 @@ I created a comprehensive Power BI report aimed at identifying the top 11 player
 ![Power Hitters Openers](https://github.com/user-attachments/assets/4447c53f-7787-4757-ab34-a3af5848e5b9)
 
 ### Anchors / Middle Order
-
+![Anchors Middle Order](https://github.com/user-attachments/assets/fc87406b-3cc9-4d1e-a94e-1b0d8e8aa21a)
 
 ### Finisher / Lower Order Anchor
 
