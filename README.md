@@ -34,12 +34,13 @@ I created a comprehensive Power BI report aimed at identifying the top 11 player
 ![Anchors Middle Order](https://github.com/user-attachments/assets/fc87406b-3cc9-4d1e-a94e-1b0d8e8aa21a)
 
 ### Finisher / Lower Order Anchor
-
+![Finisher Lower Order Anchor](https://github.com/user-attachments/assets/d7fe50d1-ef05-4333-a2cb-0d664b3c7f56)
 
 ### All Rounders / Lower Middle Order
-
+![All Rounders Lower Middle Order](https://github.com/user-attachments/assets/3701fcc4-ed00-4ac8-83a2-e43a0bd1af9d)
 
 ### Special Fast Bowlers / Tail End
-
+![Special Fast Bowlers Tail End](https://github.com/user-attachments/assets/1598c123-c6dd-484b-a683-29bec971e969)
 
 ### Final 11
+![Final 11](https://github.com/user-attachments/assets/144e044b-b710-4a6e-aa9c-fedc59103858)
