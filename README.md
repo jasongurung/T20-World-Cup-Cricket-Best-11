@@ -26,3 +26,20 @@ I created a comprehensive Power BI report aimed at identifying the top 11 player
 * Pandas
 
 ## Snapshots of Dashboard (Power BI Service)
+
+### Power Hitters / Openers
+![Power Hitters Openers](https://github.com/user-attachments/assets/4447c53f-7787-4757-ab34-a3af5848e5b9)
+
+### Anchors / Middle Order
+
+
+### Finisher / Lower Order Anchor
+
+
+### All Rounders / Lower Middle Order
+
+
+### Special Fast Bowlers / Tail End
+
+
+### Final 11
