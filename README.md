@@ -1,12 +1,9 @@
 # T20-World-Cup-Cricket-Best-11
 
 ## Overview
-I created a comprehensive Power BI report aimed at identifying the top 11 players for a T20 cricket team by leveraging a combination of web scraping, data cleaning, and advanced performance analysis.
+I created a comprehensive Power BI report aimed at identifying the top 11 players for a T20 cricket team by advanced performance analysis.
 
 ## Key features
-
-### End-to-End Data Pipeline:
-* From scraping the data to cleaning, transforming, and visualizing it in Power BI, the project utilized a robust data pipeline powered by BrightData, pandas, and Power BI.
 
 ### Advanced Performance Metrics:
 * Emphasized key T20 statistics such as strike rate, economy rate, and match situation adaptability to drive decision-making.
@@ -21,9 +18,7 @@ I created a comprehensive Power BI report aimed at identifying the top 11 player
 * Utilized performance metrics to forecast an impressive 90% chance of winning, showcasing the power of data analytics in sports decision-making.
 
 ## Technologies Used
-* BrightData
 * Power BI
-* Pandas
 
 ## Snapshots of Dashboard (Power BI Service)
 
